@@ -24,7 +24,7 @@ Through these analyses, we intend to establish the typical characteristics of mo
 
 ### TMDB & Web Scraping 
 
-We extract TMDB data from [**The Movies Dataset**](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/) and the TMDB api to extract the box office revenue and the budget of missing values in our dataset
+TMDB website is a popular, user editable database for movies and TV shows. We use TMDB data from [**The Movies Dataset**](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/) and the TMDB api to extract the box office revenue and the budget of missing values in our dataset
 
 ### CPI
 
@@ -36,7 +36,7 @@ We use S&P 500 data to compare financial context with movie revenue. The data ar
 
 ### RottenTomatoes
 
-We deemed it crucial to compare audience scores from critics' scores. The RottenTomatoes website aggregates such movie ratings. The critics' score on RottenTomatoes is similar to that of Metacritic, but since RottenTomatoes also includes the audience score, we chose to use their dataset to have more consistent results. In our experience, the audience score and the critic's score are often very different, our exploratory data analysis reveals that there is only a 0.72 correlation between the two, which confirms our intuition that these metrics can be used for separate evaluations.
+We deemed it crucial to compare audience scores from critics' scores. The RottenTomatoes website aggregates such movie ratings. The critics' score on RottenTomatoes is similar to that of Metacritic, but since RottenTomatoes also includes the audience score, we chose to use their [dataset](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data) to have more consistent results. In our experience, the audience score and the critic's score are often very different, our exploratory data analysis reveals that there is only a 0.72 correlation between the two, which confirms our intuition that these metrics can be used for separate evaluations.
 
 ## 📈 Methods
 
