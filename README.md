@@ -62,6 +62,10 @@ We use correlation to compare time-series of two variables and observe how they 
 
 We use regression to compare variables present across many movies, such as length, and success defined according to our variables. We will use R2 coefficients and visualization of the regression to assess the quality of our predictors. Furthermore, we will use t-test to observe if the relation obtained is statistically significant. 
 
+### Actor success score
+
+We build a metric for movies that reflects the overall quality and fame of casted actors. This will be computed by summing the number of actors that have played in a successful movie prior to the release date of the interested artwork. It will be used as an additional predictor in the regression.
+
 ## 🤝 Team Workload
 
 | Individual Tasks	                 	| Team Member           |
