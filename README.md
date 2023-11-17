@@ -16,6 +16,7 @@ Through these analyses, we intend to establish the typical characteristics of mo
 ## ❓ Research Questions
 
 - What is the impact of financial context on the success of a movie?
+We want to assess how financial context, such as good economic periods or crisis affect the movie revenue. We want to observe if there is a correlation between a financial asset representing general economic health and yearly average of movie revenue. 
 - How do the length of a movie and its release date contribute to its success?
 - In what ways do trends in theme and genre influence the success of a movie?
 - How does the fame and experience of actors and directors affect the success of a movie?
