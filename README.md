@@ -1,5 +1,7 @@
 # 🎬 Cinematic Alchemy: Ingredients for Movie Magic
 
+You can find our datastory [here!](https://moviesuccess.github.io/)
+
 ## 📄 Abstract
 
 This study aims to identify the key factors behind the success of a movie by examining how different success metrics vary based on several criteria.
